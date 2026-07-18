@@ -21,7 +21,6 @@
 - [SQL Analysis](#sql-analysis)
 - [Project Structure](#project-structure)
 - [How to Run](#how-to-run)
-- [Next Steps](#next-steps)
 - [Author](#author)
 
 ---
