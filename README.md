@@ -194,14 +194,6 @@ Uncomment the `LOAD DATA LOCAL INFILE` statements in the script and update the f
 
 ---
 
-## Next Steps
-
-- Build an interactive dashboard (Power BI / Tableau / Streamlit) on top of the analysis
-- Add cohort and customer lifetime value (CLV) analysis for deeper customer insights
-- Automate PDF/HTML report generation from the notebook
-
----
-
 <div align="center">
 
 ## Author
